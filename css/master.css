@@ -1,0 +1,146 @@
+
+header {
+  background: rgb(0, 0, 0);
+  padding: 20px;
+}
+
+header ul {
+  list-style-type: lower-latin;
+}
+
+header li {
+  display: inline-block;
+  border: 1px solid #ffffff;
+}
+
+header a {
+  text-decoration: none;
+  color : #ffffff;
+  padding: 12px;
+}
+.hero {
+  background: rgb(05, 0, 0) url('images/bg-xl-1440.jpg') top center no-repeat;
+  color : #fff;
+  min-height: 100vh;
+}
+.hero h1 {
+text-align: center;
+font-family: 'Playfair Display SC', serif;
+font-size: 120px;
+color:white;
+padding-top: 200px;
+}
+
+section {
+  min-height: 90vh;
+  padding: 42px;
+}
+
+.image-block {
+  max-width: 640px;
+  border: 12px solid #000;
+}
+
+.image-block img {
+  width : 100%;
+display:block;
+}
+
+figcaption {
+  font-family: 'Fahkwang', serif;
+  font-style: italic;
+
+}
+
+footer {
+  min-height: 600px;
+  background: #000;
+  color : #fff;
+}
+#section01 {
+  background: rgb(134, 0, 0) url('images/winter.jpg') top center no-repeat;
+  color: #FFFFFF;
+  min-height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+  display:flex;
+  align-items: center;
+}
+  #section02 {
+  background: rgb(134, 0, 0) url('images/traveler.jpg') top center no-repeat;
+  color: #FFFFFF;
+  min-height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+  display:flex;
+  align-items: center;
+}
+  #section03 {
+  background: rgb(134, 0, 0) url('images/shadow.jpg') top center no-repeat;
+  color: #FFFFFF;
+  min-height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+  display:flex;
+  align-items: center;
+}
+  #section04 {
+  background: rgb(134, 0, 0) url('images/mole.jpg') top center no-repeat;
+  color: #FFFFFF;
+  min-height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+  display:flex;
+  align-items: center;
+}
+  #section05 {
+  background: rgb(134, 0, 0) url('images/lioness.jpg') top center no-repeat;
+  color: #FFFFFF;
+  min-height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+  display:flex;
+  align-items: center;
+}
+#section01 h1 {
+font-family: 'Abril Fatface', cursive;
+font-size:
+}
+#section01 p {
+font-family: 'Playfair Display', serif;
+}
+
+#section02 h1 {
+font-family: 'Meddon', cursive;
+font-size:
+
+}
+#section02 p {
+font-family: 'Playfair Display', serif;
+}
+
+#section03 h1 {
+font-family: 'Abril Fatface', cursive;
+font-size:
+}
+#section03 p {
+font-family: 'Playfair Display', serif;
+}
+
+
+#section04 h1 {
+font-family: 'Abril Fatface', cursive;
+font-size:
+}
+#section04 p {
+font-family: 'Playfair Display', serif;
+}
+
+
+#section05 h1 {
+font-family: 'Abril Fatface', cursive;
+font-size:
+}
+#section05 p {
+font-family: 'Playfair Display', serif;
+}
